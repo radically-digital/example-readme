@@ -18,22 +18,23 @@ A brief description of your project, what it is used for. (1-2 lines)
 
 - [.editorconfig file](https://editorconfig.org/)
 - [12 factor apps](https://12factor.net/)
+- [Immutable Web App](https://immutablewebapps.org/)
+- [asdf](https://asdf-vm.com)
 - [Frontend Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 - [git submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
-- [JavaScript Clean Code Guidelines](https://github.com/ryanmcdermott/clean-code-javascript)
 - [language specific code blocks](https://help.github.com/articles/creating-and-highlighting-code-blocks/)
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Markdown Reference style link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
-- [nvm](https://github.com/creationix/nvm)
-- [Or even the frameworks documentation](https://raygun.com/blog/popular-javascript-frameworks/)
 - [Project Guidelines](https://github.com/elsewhencode/project-guidelines)
-- [Recommended extensions](https://code.visualstudio.com/docs/editor/extension-gallery#_recommended-extensions)
+- [VS CodeRecommended extensions](https://code.visualstudio.com/docs/editor/extension-gallery#_recommended-extensions)
+- [JavaScript Clean Code Guidelines](https://github.com/ryanmcdermott/clean-code-javascript)
 
 </details>
 
 ## Requirements
 
 - [Docker]
+- ...etc
 
 <details>
 <summary>⭐ Important Notes ⭐</summary>
@@ -44,7 +45,7 @@ A brief description of your project, what it is used for. (1-2 lines)
 
 </details>
 
-## Installing / Getting started
+## Setup
 
 A quick introduction of the minimal setup you need to get a hello world up &
 running.
@@ -84,7 +85,7 @@ And state what happens step-by-step. If there is any virtual environment, local 
 
 </details>
 
-### Building (Not always needed)
+### Building (Optional)
 
 If your project needs some additional steps for the developer to build the
 project after some code changes, state them here. for example:
@@ -98,7 +99,7 @@ make install
 Here again you should state what actually happens when the code above gets
 executed.
 
-### Deploying / Publishing
+### Deploying
 
 give instructions on how to build and release a new version
 In case there's some step you have to take that publishes this project to a
@@ -113,7 +114,7 @@ And again you'd need to tell what the previous code actually does.
 <details>
 <summary>⭐ Important Notes ⭐</summary>
 
-- if this uses ci/cd link out to it along with the environments.
+- If this uses ci/cd link out to it along with the environments.
 - Make use of badges where possible
   - [circleci status-badges](https://circleci.com/docs/2.0/status-badges)
   - [Github Workflow status badge](https://docs.github.com/en/actions/monitoring-and-troubleshooting-workflows/adding-a-workflow-status-badge)
