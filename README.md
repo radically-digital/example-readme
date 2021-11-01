@@ -101,9 +101,12 @@ executed.
 
 ### Deploying
 
-give instructions on how to build and release a new version
+Give instructions on how to build and release a new version.
+
 In case there's some step you have to take that publishes this project to a
 server, this is the right time to state it.
+
+Always try prioritise a CI/CD pipeline and build artifacts that are optimised generic environments.
 
 ```shell
 packagemanager deploy your-project -s server.com -u username -p password
@@ -115,6 +118,8 @@ And again you'd need to tell what the previous code actually does.
 <summary>:warning: <b>IMPORTANT NOTES</b> :warning:</summary>
 
 - If this uses ci/cd link out to it along with the environments.
+- [12 factor apps](https://12factor.net/)
+- [Immutable Web App](https://immutablewebapps.org/)
 - Make use of badges where possible
   - [circleci status-badges](https://circleci.com/docs/2.0/status-badges)
   - [Github Workflow status badge](https://docs.github.com/en/actions/monitoring-and-troubleshooting-workflows/adding-a-workflow-status-badge)
