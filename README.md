@@ -14,7 +14,7 @@ A brief description of your project, what it is used for. (1-2 lines)
   - Identify sources of truth and link out to that - if this code has no control of the output (like an IP address) - don't put the IP address in here.
   - Don't use specific details that need to be maintained.
 
-#### Additional Resources
+## Additional Resources
 
 - [.editorconfig file](https://editorconfig.org/)
 - [12 factor apps](https://12factor.net/)
@@ -85,7 +85,7 @@ And state what happens step-by-step. If there is any virtual environment, local 
 
 </details>
 
-### Building (Optional)
+### (Optional) Building
 
 If your project needs some additional steps for the developer to build the
 project after some code changes, state them here. for example:
@@ -154,7 +154,7 @@ Give an example
 
 </details>
 
-## Style guide (Optional)
+## (Optional) Style guide
 
 Explain your code style and show how to check it.
 
@@ -179,7 +179,7 @@ If the api is external, link to api documentation. If not describe your api incl
 - Explaining what database (and version) has been used. Provide docker-compose scripts
 - Documents your database design and schemas, relations etc...
 
-## Licensing (Optional)
+## (Optional) Licensing
 
 State what the license is and how to find the text version of the license.
 
