@@ -5,7 +5,7 @@
 A brief description of your project, what it is used for. (1-2 lines)
 
 <details>
-<summary>⭐ Important Notes ⭐</summary>
+<summary>:warning: **IMPORTANT NOTES** :warning:</summary>
 
 - Assume that the developer has basic knowledge of git, the language, and following standards. Remember who this document is for.
 - Keep all additional documentaion in a `./_DOCUMENTATION` directory
@@ -37,7 +37,7 @@ A brief description of your project, what it is used for. (1-2 lines)
 - ...etc
 
 <details>
-<summary>⭐ Important Notes ⭐</summary>
+<summary>:warning: **IMPORTANT NOTES** :warning:</summary>
 
 - Use packages like [Homebrew], [docker], and [asdf]
 - List any global installs here - prefer using [asdf] and [homebrew]
@@ -55,7 +55,7 @@ commands here
 ```
 
 <details>
-<summary>⭐ Important Notes ⭐</summary>
+<summary>:warning: **IMPORTANT NOTES** :warning:</summary>
 
 - Here you should say what actually happens when you execute the code above.
 - List any global installs and runtime setting here - prefer using [asdf] and [homebrew]
@@ -78,7 +78,7 @@ packagemanager install
 And state what happens step-by-step. If there is any virtual environment, local server or database feeder needed, explain here.
 
 <details>
-<summary>⭐ Important Notes ⭐</summary>
+<summary>:warning: **IMPORTANT NOTES** :warning:</summary>
 
 - This should represent the day-to-day workflow
 - this should not list global dependencies
@@ -112,7 +112,7 @@ packagemanager deploy your-project -s server.com -u username -p password
 And again you'd need to tell what the previous code actually does.
 
 <details>
-<summary>⭐ Important Notes ⭐</summary>
+<summary>:warning: **IMPORTANT NOTES** :warning:</summary>
 
 - If this uses ci/cd link out to it along with the environments.
 - Make use of badges where possible
@@ -130,7 +130,7 @@ We can maybe use [SemVer](http://semver.org/) for versioning. For the versions a
 Here you should write what are all of the configurations a user can enter when using the project.
 
 <details>
-<summary>⭐ Important Notes ⭐</summary>
+<summary>:warning: **IMPORTANT NOTES** :warning:</summary>
 
 - Note configuration is not secrets.
 - Use `.env` and `.env.example`.
@@ -148,7 +148,7 @@ Give an example
 ```
 
 <details>
-<summary>⭐ Important Notes ⭐</summary>
+<summary>:warning: **IMPORTANT NOTES** :warning:</summary>
 
 - This is sometimes included in the Developing script. This is fine, however if you are working with code that the sysops team is not familiar with, it's a good idea to split this out to make it more convenient for them.
 
@@ -159,7 +159,7 @@ Give an example
 Explain your code style and show how to check it.
 
 <details>
-<summary>⭐ Important Notes ⭐</summary>
+<summary>:warning: **IMPORTANT NOTES** :warning:</summary>
 
 - Automation is the ultimate authority. Please only list opinionated and non-automated styles here.
 - Use tools to automate as much as possible. Note these need to be project dependencies if they are project dependencies.
